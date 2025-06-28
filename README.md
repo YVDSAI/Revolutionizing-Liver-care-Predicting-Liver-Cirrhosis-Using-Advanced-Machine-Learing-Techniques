@@ -82,7 +82,7 @@ Run the Flask app using python app.py
 
 ## 👨‍💻 Author
 
-venkata durga sai yarramsetti
+Venkata Durga Sai Yarramsetti
 
 B.Tech CSE Student
 
